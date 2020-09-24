@@ -1,2 +1,2 @@
-# xssInjection
-xss Injection in query
+# xss
+xss  in query
